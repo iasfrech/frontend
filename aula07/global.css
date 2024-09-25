@@ -1,0 +1,40 @@
+body{
+    background-color: #90e0ef;
+}
+.menu{
+    background-color: #03045e;
+    height: 200px;
+    width: 100%;
+}
+.principal{
+    background-color:#d5bdaf;
+    height: 300px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.principal h1{
+    font-family: 'Chrisye', sans-serif;
+    font-size:80px;
+    color: black;
+    display: flex;
+}
+.rodape{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+.tabela{
+height:200px;
+width: 300px;
+background-color:#03045e;
+
+}
+.formulario{
+    height: 200px;
+    width: 300px;
+    background-color: #ef9090;
+}
